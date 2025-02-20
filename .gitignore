@@ -1,0 +1,12 @@
+*.DS_*
+*.save*
+*.user*
+*/build/*
+*.o
+*/.vscode/*
+.vscode/*
+*/CMakeFiles/*
+cmake_install.cmake
+*.qtc*
+CMakeCache.txt
+Makefile
